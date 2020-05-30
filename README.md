@@ -10,7 +10,7 @@ My first React project following <a href="https://www.youtube.com/watch?v=XQxitg
 
 ## Contact Manager
 
-Project inspired by the course of React + Redux of the Sololearn Android app. It uses concepts of state (hooks), separation of concerns, functional components and "lifting the state up" (indirect communication between components).
+Project inspired by the course of React + Redux of the Sololearn Android app. It uses concepts of state (hooks), separation of concerns, functional components and "lifting the state up" (indirect communication between components). Afterwards I made a version using Redux (contact-redux), a library that makes state management easier in big applications (not the case, but it was useful for study purposes).
 
 ![Contact Manager site](https://github.com/arturo32/FirstReactJSProjects/blob/master/images/contact.gif)
 

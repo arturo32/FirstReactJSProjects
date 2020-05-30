@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+
+ul{
+  padding: 0px;
+}
+
+li{
+  text-align: center;
+  list-style: none;
+  background-color: lightblue;
+  border-radius: 10px;
+  text-align: center;
+  margin: 20px;
+  margin-left: 30px;
+  margin-right:30px;
+  line-height: 60px;
+  
+}
+
+button{
+  display: block;
+  margin: auto;
+}
+
+input{
+  margin: 5px;
+}
